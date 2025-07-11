@@ -46,9 +46,8 @@ This app allows you to:
 
 ## 🌐 Deployment
 
-The project is ready to be deployed on:
-- **Vercel** (recommended)
-- Netlify, Render, Railway, etc.
+The project was deployed on:
+- **Vercel**
 
 You can see a demo at: [https://rickandmorty-comparison.vercel.app](https://rickandmorty-comparison.vercel.app)
 
@@ -58,7 +57,7 @@ You can see a demo at: [https://rickandmorty-comparison.vercel.app](https://rick
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/youruser/rickandmorty-comparison.git
+   git clone https://github.com/jamir2308/rickandmorty-frontend-challenge.git
    cd rickandmorty-comparison
    ```
 2. **Install dependencies:**
@@ -92,18 +91,6 @@ You can see a demo at: [https://rickandmorty-comparison.vercel.app](https://rick
 - **PWA Ready:** Includes manifest and resources for mobile devices.
 - **Easy to extend:** You can add filters, favorites, or more character/episode details.
 - **Modular and maintainable code:** Reusable components and hooks.
-
----
-
-## 🤝 Contributions
-
-Contributions are welcome! Open an issue or submit a pull request to suggest improvements or report bugs.
-
----
-
-## 📄 License
-
-MIT
 
 ---
 
@@ -158,9 +145,8 @@ Esta app permite:
 
 ## 🌐 Despliegue
 
-El proyecto está listo para ser desplegado en:
-- **Vercel** (recomendado)
-- Netlify, Render, Railway, etc.
+El proyecto fue desplegado en:
+- **Vercel**
 
 Puedes ver una demo en: [https://rickandmorty-comparison.vercel.app](https://rickandmorty-comparison.vercel.app)
 
@@ -170,7 +156,7 @@ Puedes ver una demo en: [https://rickandmorty-comparison.vercel.app](https://ric
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tuusuario/rickandmorty-comparison.git
+   git clone https://github.com/jamir2308/rickandmorty-frontend-challenge.git
    cd rickandmorty-comparison
    ```
 2. **Instala dependencias:**
