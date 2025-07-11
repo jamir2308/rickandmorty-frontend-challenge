@@ -27,13 +27,13 @@ export default function CharacterView() {
                     <AlertMessage type="info" message={alert} onClose={() => setAlert(null)} />
                 </div>
             )}
-            <div className="text-center space-y-4">
+            <div>
                 <Image
                     src="/rickandmorty.webp"
                     alt="Rick and Morty Logo"
                     width={233}
                     height={80}
-                    className="mx-auto my-2"
+                    className="mx-auto"
                     priority
                 />
             </div>
